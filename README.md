@@ -144,6 +144,3 @@ cv2.destroyAllWindows()
 
 ## Result 
 Thus the image is accessed from webcamera and displayed using openCV.
-
-## Result:
-Thus the image is accessed from webcamera and displayed using openCV.
